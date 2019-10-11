@@ -1,0 +1,44 @@
+
+
+.overlay {
+    color: white;
+}
+
+nav {
+    position: relative;
+    height: 10%;
+    padding: 10px;
+    display: block;
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+
+   
+}
+
+ul li {
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: #fff;
+}
+
+#what {
+    text-align: left;
+}
+
+#new {
+    text-align: right;
+}
